@@ -1,4 +1,4 @@
-# programming-logic-and-data-structure-in-C
+# Programming-logic-and-data-structure-in-C
 Exercises used to practice programming logic and data structure in C language
 
 Basic C syntax: flow control statements (if, for, while), functions, variables, data types, operators and expressions.
